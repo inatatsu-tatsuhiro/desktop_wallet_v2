@@ -93,8 +93,8 @@ export default class GenerateMnemonicTs extends Vue {
      */
     public handleMousemove() {
         if (this.percent < 100) {
-            this.entropy += Crypto.randomBytes(8);
-            this.percent++;
+            this.entropy += Crypto.randomBytes(40);
+            this.percent += 5;
             return;
         }
 

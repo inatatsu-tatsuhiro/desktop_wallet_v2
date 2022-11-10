@@ -69,7 +69,7 @@ export class FormProfileCreationTs extends Vue {
 
     created() {
         this.profileService = new ProfileService();
-        this.formItems.networkType = NetworkType.MAIN_NET;
+        this.formItems.networkType = NetworkType.TEST_NET;
         const { isLedger } = this.$route.meta;
         this.isLedger = isLedger;
     }
@@ -123,7 +123,7 @@ export class FormProfileCreationTs extends Vue {
 
     /// region computed properties getter/setter
     get nextPage() {
-        this.connect(this.formItems.networkType);
+        this.connect(NetworkType.TEST_NET);
         return this.$route.meta.nextPage;
     }
 
@@ -199,15 +199,16 @@ export class FormProfileCreationTs extends Vue {
      */
     private persistAccountAndContinue() {
         // -  password stored as hash (never plain.)
+
         const passwordHash = ProfileService.getPasswordHash(new Password(this.formItems.password));
-        const genHash = networkConfig[this.formItems.networkType].networkConfigurationDefaults.generationHash || this.generationHash;
+        const genHash = networkConfig[NetworkType.TEST_NET].networkConfigurationDefaults.generationHash || this.generationHash;
         const profile: ProfileModel = {
             profileName: this.formItems.profileName,
             accounts: [],
             seed: '',
             password: passwordHash,
             hint: this.formItems.hint,
-            networkType: this.formItems.networkType,
+            networkType: NetworkType.TEST_NET,
             generationHash: genHash,
             termsAndConditionsApproved: false,
             selectedNodeUrlToConnect: '',
@@ -222,7 +223,7 @@ export class FormProfileCreationTs extends Vue {
             // try for make sure device was connected for next step require it
             const accountService = new AccountService();
             accountService
-                .getLedgerAccounts(this.formItems.networkType, 1)
+                .getLedgerAccounts(NetworkType.TEST_NET, 1)
                 .then(() => {
                     // flush and continue
                     this.$router.push({ name: this.nextPage });

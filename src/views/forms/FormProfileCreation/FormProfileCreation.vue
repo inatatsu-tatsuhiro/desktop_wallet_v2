@@ -33,34 +33,6 @@
                         </template>
                     </FormRow>
 
-                    <FormRow vertical="true">
-                        <template v-slot:label> {{ $t('set_network_type') }} </template>
-                        <template v-slot:inputs>
-                            <ValidationProvider
-                                v-slot="{ errors }"
-                                vid="selectedMosaic"
-                                :name="$t('network_type')"
-                                :rules="'required'"
-                                tag="div"
-                                class="select-container"
-                            >
-                                <ErrorTooltip :errors="errors">
-                                    <div class="inputs-create-container select-container">
-                                        <Select
-                                            v-model="formItems.networkType"
-                                            :placeholder="$t('choose_network')"
-                                            class="select-size select-style"
-                                        >
-                                            <Option v-for="(item, index) in networkTypeList" :key="index" :value="item.value">
-                                                {{ item.label }}
-                                            </Option>
-                                        </Select>
-                                    </div>
-                                </ErrorTooltip>
-                            </ValidationProvider>
-                        </template>
-                    </FormRow>
-
                     <!-- @TODO: Place hint(should contain at least 8 characters, 1 letter and 1 number) -->
                     <FormRow vertical="true">
                         <template v-slot:label> {{ $t('new_password_label') }} </template>
