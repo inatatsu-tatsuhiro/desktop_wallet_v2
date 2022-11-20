@@ -48,7 +48,7 @@
         "@ledgerhq/hw-transport-node-hid-noevents": "^5.41.0",
         "@ledgerhq/hw-transport-webusb": "^6.27.6",
         "@ssthouse/vue-tree-chart": "^0.6.8",
-        "animate.css": "^3.7.2",
+        "animate.css": "^4.1.1",
         "await-lock": "^2.2.2",
         "bip32-path": "^0.4.2",
         "call-bind": "^1.0.2",
