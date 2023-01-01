@@ -127,7 +127,7 @@
         "less-loader": "^11.1.0",
         "moment-timezone": "^0.5.38",
         "node-notifier": ">=10.0.1",
-        "node-pre-gyp": "^0.13.0",
+        "node-pre-gyp": "^0.17.0",
         "npm-build-zip": "^1.0.2",
         "nth-check": ">=2.1.1",
         "nyc": "^15.1.0",
