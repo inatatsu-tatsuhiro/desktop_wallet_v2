@@ -67,7 +67,7 @@
         "utf8": "^3.0.0",
         "vee-validate": "^3.2.3",
         "view-design": "^4.0.0",
-        "vue": "^2.7.14",
+        "vue": "^3.2.45",
         "vue-class-component": "^7.0.2",
         "vue-i18n": "^8.28.2",
         "vue-infinite-scroll": "^2.0.2",
