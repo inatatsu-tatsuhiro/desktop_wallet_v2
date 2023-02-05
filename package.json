@@ -106,7 +106,7 @@
         "babel-plugin-syntax-dynamic-import": "^6.18.0",
         "babel-preset-env": "^1.7.0",
         "bufferutil": "^4.0.7",
-        "cross-env": "^5.1.1",
+        "cross-env": "^7.0.3",
         "electron": "^22.0.3",
         "electron-builder": "23.6.0",
         "electron-notarize": "1.0.0",
