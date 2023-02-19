@@ -134,7 +134,7 @@
         "postcss-import": "^15.1.0",
         "postcss-pxtorem": "^6.0.0",
         "prettier": "2.8.4",
-        "rimraf": "^3.0.2",
+        "rimraf": "^4.1.2",
         "symbol-address-book": "^1.0.1",
         "symbol-hd-wallets": "0.14.2",
         "symbol-openapi-typescript-fetch-client": "^1.0.0",
