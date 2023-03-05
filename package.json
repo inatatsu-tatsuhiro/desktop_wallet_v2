@@ -43,7 +43,7 @@
     ],
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.2.1",
-        "@fortawesome/free-solid-svg-icons": "^6.2.1",
+        "@fortawesome/free-solid-svg-icons": "^6.3.0",
         "@fortawesome/vue-fontawesome": "^2.0.9",
         "@ledgerhq/hw-transport-node-hid-noevents": "^6.27.12",
         "@ledgerhq/hw-transport-webusb": "^6.27.12",
