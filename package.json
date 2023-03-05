@@ -45,7 +45,7 @@
         "@fortawesome/fontawesome-svg-core": "^6.2.1",
         "@fortawesome/free-solid-svg-icons": "^6.2.1",
         "@fortawesome/vue-fontawesome": "^2.0.9",
-        "@ledgerhq/hw-transport-node-hid-noevents": "^6.27.8",
+        "@ledgerhq/hw-transport-node-hid-noevents": "^6.27.12",
         "@ledgerhq/hw-transport-webusb": "^6.27.12",
         "@ssthouse/vue-tree-chart": "^0.6.8",
         "animate.css": "^4.1.1",
