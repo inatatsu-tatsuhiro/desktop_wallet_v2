@@ -145,7 +145,7 @@
         "ts-jest": "^25.3.0",
         "ts-mockito": "^2.6.1",
         "typescript": "^3.7.2",
-        "utf-8-validate": "^6.0.2",
+        "utf-8-validate": "^6.0.3",
         "vue-jest": "^3.0.5",
         "vue-template-compiler": "^2.7.14"
     },
