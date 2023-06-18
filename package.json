@@ -89,7 +89,7 @@
         "@types/file-saver": "^2.0.5",
         "@types/jest": "^23.3.1",
         "@types/json2csv": "^5.0.1",
-        "@types/lodash": "^4.14.194",
+        "@types/lodash": "^4.14.195",
         "@types/node": "^20.1.0",
         "@types/request": "^2.48.8",
         "@types/vue-moment": "^4.0.0",
