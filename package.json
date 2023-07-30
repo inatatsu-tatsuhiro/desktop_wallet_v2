@@ -108,7 +108,7 @@
         "bufferutil": "^4.0.7",
         "cross-env": "^7.0.3",
         "electron": "^25.2.0",
-        "electron-builder": "24.4.0",
+        "electron-builder": "24.6.3",
         "electron-notarize": "1.2.2",
         "electron-packager": "17.1.1",
         "electron-rebuild": "^3.2.9",
