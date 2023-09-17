@@ -84,7 +84,7 @@
         "vuex": "^4.1.0"
     },
     "devDependencies": {
-        "@babel/compat-data": "^7.21.0",
+        "@babel/compat-data": "^7.22.20",
         "@babel/core": "^7.22.10",
         "@types/file-saver": "^2.0.5",
         "@types/jest": "^23.3.1",
