@@ -141,7 +141,7 @@
         "symbol-paper-wallets": "^1.0.2",
         "symbol-qr-library": "0.14.2",
         "symbol-uri-scheme": "0.6.1",
-        "tar": ">=6.1.15",
+        "tar": ">=6.2.0",
         "ts-jest": "^25.3.0",
         "ts-mockito": "^2.6.1",
         "typescript": "^3.7.2",
