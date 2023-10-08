@@ -91,7 +91,7 @@
         "@types/json2csv": "^5.0.1",
         "@types/lodash": "^4.14.198",
         "@types/node": "^20.8.0",
-        "@types/request": "^2.48.8",
+        "@types/request": "^2.48.9",
         "@types/vue-moment": "^4.0.0",
         "@typescript-eslint/eslint-plugin": "^6.7.3",
         "@typescript-eslint/parser": "^6.6.0",
