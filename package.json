@@ -116,7 +116,7 @@
         "eslint": "^8.51.0",
         "eslint-config-prettier": "^9.0.0",
         "eslint-plugin-prettier": "^5.0.0",
-        "eslint-plugin-vue": "^9.17.0",
+        "eslint-plugin-vue": "^9.18.1",
         "flush-promises": "^1.0.2",
         "google-fonts-webpack-plugin": "^0.4.4",
         "gsap": ">=3.12.2",
