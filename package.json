@@ -75,7 +75,7 @@
         "vue-number-animation": "1.1.2",
         "vue-pdf": "^4.2.0",
         "vue-property-decorator": "^9.1.2",
-        "vue-qrcode-reader": "^5.3.9",
+        "vue-qrcode-reader": "^5.4.1",
         "vue-responsive-video-background-player": "^2.3.1",
         "vue-router": "^4.2.5",
         "vue-rx": "^6.2.0",
