@@ -44,7 +44,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.5.1",
         "@fortawesome/free-solid-svg-icons": "^6.5.1",
-        "@fortawesome/vue-fontawesome": "^3.0.5",
+        "@fortawesome/vue-fontawesome": "^3.0.6",
         "@ledgerhq/hw-transport-node-hid-noevents": "^6.29.2",
         "@ledgerhq/hw-transport-webusb": "^6.28.1",
         "@ssthouse/vue-tree-chart": "^0.6.8",
