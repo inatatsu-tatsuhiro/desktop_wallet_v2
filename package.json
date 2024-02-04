@@ -69,7 +69,7 @@
         "view-design": "^4.0.0",
         "vue": "^3.4.15",
         "vue-class-component": "^7.0.2",
-        "vue-i18n": "^9.9.0",
+        "vue-i18n": "^9.9.1",
         "vue-infinite-scroll": "^2.0.2",
         "vue-moment": "^4.1.0",
         "vue-number-animation": "2.0.2",
