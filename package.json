@@ -65,7 +65,7 @@
         "symbol-statistics-service-typescript-fetch-client": "1.1.5",
         "trezor-connect": "^8.2.12",
         "utf8": "^3.0.0",
-        "vee-validate": "^4.12.0",
+        "vee-validate": "^4.12.5",
         "view-design": "^4.0.0",
         "vue": "^3.4.15",
         "vue-class-component": "^7.0.2",
