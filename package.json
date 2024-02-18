@@ -133,7 +133,7 @@
         "nyc": "^15.1.0",
         "postcss-import": "^16.0.1",
         "postcss-pxtorem": "^6.1.0",
-        "prettier": "3.2.4",
+        "prettier": "3.2.5",
         "rimraf": "^5.0.5",
         "symbol-address-book": "^1.0.1",
         "symbol-hd-wallets": "0.14.2",
