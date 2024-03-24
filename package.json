@@ -131,7 +131,7 @@
         "npm-build-zip": "^1.0.4",
         "nth-check": ">=2.1.1",
         "nyc": "^15.1.0",
-        "postcss-import": "^16.0.1",
+        "postcss-import": "^16.1.0",
         "postcss-pxtorem": "^6.1.0",
         "prettier": "3.2.5",
         "rimraf": "^5.0.5",
