@@ -94,7 +94,7 @@
         "@types/request": "^2.48.12",
         "@types/vue-moment": "^4.0.7",
         "@typescript-eslint/eslint-plugin": "^7.4.0",
-        "@typescript-eslint/parser": "^7.2.0",
+        "@typescript-eslint/parser": "^7.6.0",
         "@vue/cli-plugin-babel": "^5.0.8",
         "@vue/cli-plugin-typescript": "^5.0.8",
         "@vue/cli-plugin-unit-jest": "^5.0.8",
