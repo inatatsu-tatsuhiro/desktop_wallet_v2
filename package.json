@@ -107,7 +107,7 @@
         "babel-preset-env": "^1.7.0",
         "bufferutil": "^4.0.8",
         "cross-env": "^7.0.3",
-        "electron": "^31.4.0",
+        "electron": "^32.0.1",
         "electron-builder": "24.13.3",
         "electron-notarize": "1.2.2",
         "electron-packager": "17.1.2",
