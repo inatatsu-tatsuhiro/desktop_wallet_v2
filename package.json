@@ -112,7 +112,7 @@
         "electron-notarize": "1.2.2",
         "electron-packager": "17.1.2",
         "electron-rebuild": "^3.2.9",
-        "electron-updater": "6.3.4",
+        "electron-updater": "6.3.9",
         "eslint": "^8.57.1",
         "eslint-config-prettier": "^9.1.0",
         "eslint-plugin-prettier": "^5.2.1",
