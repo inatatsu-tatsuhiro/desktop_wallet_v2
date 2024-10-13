@@ -85,7 +85,7 @@
     },
     "devDependencies": {
         "@babel/compat-data": "^7.25.4",
-        "@babel/core": "^7.25.7",
+        "@babel/core": "^7.25.8",
         "@types/file-saver": "^2.0.7",
         "@types/jest": "^23.3.1",
         "@types/json2csv": "^5.0.7",
