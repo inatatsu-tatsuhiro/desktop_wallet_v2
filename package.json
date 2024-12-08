@@ -51,7 +51,7 @@
         "animate.css": "^4.1.1",
         "await-lock": "^2.2.2",
         "bip32-path": "^0.4.2",
-        "call-bind": "^1.0.7",
+        "call-bind": "^1.0.8",
         "decamelize": "^6.0.0",
         "electron-context-menu": "^4.0.4",
         "electron-localshortcut": "^3.2.1",
