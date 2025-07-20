@@ -114,7 +114,7 @@
         "electron-rebuild": "^3.2.9",
         "electron-updater": "6.6.2",
         "eslint": "^9.31.0",
-        "eslint-config-prettier": "^10.1.5",
+        "eslint-config-prettier": "^10.1.8",
         "eslint-plugin-prettier": "^5.5.3",
         "eslint-plugin-vue": "^10.3.0",
         "flush-promises": "^1.0.2",
