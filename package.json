@@ -97,7 +97,7 @@
         "@typescript-eslint/parser": "^8.36.0",
         "@vue/cli-plugin-babel": "^5.0.8",
         "@vue/cli-plugin-typescript": "^5.0.8",
-        "@vue/cli-plugin-unit-jest": "^5.0.8",
+        "@vue/cli-plugin-unit-jest": "^5.0.9",
         "@vue/cli-service": "^5.0.8",
         "@vue/eslint-config-typescript": "^14.6.0",
         "@vue/test-utils": "^2.4.6",
