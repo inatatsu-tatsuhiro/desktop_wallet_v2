@@ -105,7 +105,7 @@
         "babel-jest": "^30.2.0",
         "babel-plugin-syntax-dynamic-import": "^6.18.0",
         "babel-preset-env": "^1.7.0",
-        "bufferutil": "^4.0.9",
+        "bufferutil": "^4.1.0",
         "cross-env": "^10.1.0",
         "electron": "^39.2.7",
         "electron-builder": "26.0.12",
