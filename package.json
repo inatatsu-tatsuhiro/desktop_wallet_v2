@@ -142,7 +142,7 @@
         "symbol-qr-library": "0.14.2",
         "symbol-uri-scheme": "0.6.1",
         "tar": ">=7.5.15",
-        "ts-jest": "^29.4.9",
+        "ts-jest": "^29.4.11",
         "ts-mockito": "^2.6.1",
         "typescript": "^6.0.3",
         "utf-8-validate": "^6.0.6",
